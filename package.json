@@ -1,4 +1,10 @@
 {
+    "name": "dimagi-rjs",
+    "version": "0.0.1",
+    "description": "a fork of r.js using esprima-next",
+    "engines": {
+        "yarn": ">= 1.0.0"
+    },
     "volo": {
         "url": "https://raw.github.com/requirejs/r.js/{version}/dist/r.js"
     }
