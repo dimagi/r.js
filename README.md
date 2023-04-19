@@ -256,7 +256,7 @@ to discuss them first.
 
 r.js includes modules from these projects:
 
-* [Esprima](http://esprima.org/)
+* [Esprima-next](https://github.com/node-projects/esprima-next)
 * [UglifyJS](https://github.com/mishoo/UglifyJS)
 
 # Doing a release
